@@ -69,22 +69,6 @@ Supported DAWs include:
 
 ---
 
-## Version 1.0
-
-Initial release featuring:
-
-* Melody variations
-* Chord variations
-* Bassline variations
-* Rhythm variations
-* MIDI import
-* MIDI export
-* Drag & drop workflow
-* Scale-aware generation
-* Genre presets
-
----
-
 ## Support
 
 Questions, bug reports or feature requests:
