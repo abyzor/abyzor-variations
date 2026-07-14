@@ -8,6 +8,8 @@ Perfect for producers who want to overcome creative blocks, explore new directio
 
 <p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-variations/total?label=Downloads&logo=github" />
+<img src="https://img.shields.io/badge/version-v2.0.0-blue" />
+<img src="https://img.shields.io/badge/Windows-VST3-purple" />
 </p>
 
 ---
