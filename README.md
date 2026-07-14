@@ -6,6 +6,10 @@ ABYZOR Variations is a VST3 MIDI plugin that creates intelligent variations of m
 
 Perfect for producers who want to overcome creative blocks, explore new directions and speed up their workflow.
 
+<p align="center">
+<img src="https://img.shields.io/github/downloads/abyzor/abyzor-variations/total?label=Downloads&logo=github" />
+</p>
+
 ---
 
 ## Features
