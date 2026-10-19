@@ -16,15 +16,15 @@
 
 Generate and develop MIDI in the **Ideas** workspace:
 
-- **Idea** â€” melodies, basslines, chords and arpeggios from your clip or from scratch
-- **Variations** â€” musical alternatives that keep your groove and key
-- **Arrangement** â€” structure ideas across sections
-- **Drums** â€” genre-aware grooves
-- **Call & response** â€” complementary phrases that answer your lead
+- **Idea**: melodies, basslines, chords and arpeggios from your clip or from scratch
+- **Variations** : musical alternatives that keep your groove and key
+- **Arrangement** : structure ideas across sections
+- **Drums** : genre-aware grooves
+- **Call & response** : complementary phrases that answer your lead
 
 **Mood** colours the genre: Happy, Sad, Euphoric, Dark, Dreamy, Chill, Tense, Epic, Nostalgic, Aggressive.
 
-**41 genres** â€” house, techno, trance, drum & bass, hip hop, lo-fi, latin, cinematic, classical and more.
+**41 genres** : house, techno, trance, drum & bass, hip hop, lo-fi, latin, cinematic, classical and more.
 
 Labelled MIDI exports (key and chords in the filename). **Undo**, **Redo** and **Clear** in the header.
 
@@ -43,7 +43,7 @@ Switch to **Song** to build a full track from your ideas:
 
 ## AI Module (optional, local & free)
 
-Install the [ABYZOR AI Module 1.1.0](https://github.com/abyzor/abyzor-ai-module/releases/tag/v1.1.0) for **Develop with AI** and Song **Hybrid** / **AI** engines. Everything else works without it â€” inference runs locally on your machine.
+Install the [ABYZOR AI Module 1.1.0](https://github.com/abyzor/abyzor-ai-module/releases/tag/v1.1.0) for **Develop with AI** and Song **Hybrid** / **AI** engines. Everything else works without it : inference runs locally on your machine.
 
 ---
 
@@ -54,7 +54,7 @@ Install the [ABYZOR AI Module 1.1.0](https://github.com/abyzor/abyzor-ai-module/
 | **Windows** 10+ (64-bit) | VST3, Standalone (WebView2 Runtime) |
 | **macOS** 11+ universal | VST3, AU |
 
-macOS builds are ad-hoc signed â€” see the [install guide](https://abyzor.space/variations/install/#macos) if Gatekeeper blocks the app.
+macOS builds are ad-hoc signed : see the [install guide](https://abyzor.space/variations/install/#macos) if Gatekeeper blocks the app.
 
 Supported hosts include Ableton Live, FL Studio, Cubase, Studio One, Bitwig, Reaper and Logic Pro (AU on macOS).
 
@@ -77,8 +77,8 @@ https://abyzor.space/support
 
 ## ABYZOR ecosystem
 
-- **[ABYZOR Genesis](https://github.com/abyzor/abyzor-genesis)** â€” free MIDI generator from scratch
-- **ABYZOR Variations** â€” variations, arrangement and full song builder (this repo)
+- **[ABYZOR Genesis](https://github.com/abyzor/abyzor-genesis)** : free MIDI generator from scratch
+- **ABYZOR Variations** : variations, arrangement and full song builder (this repo)
 
 ---
 
