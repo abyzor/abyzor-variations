@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
 </p>
 
-**[Download ABYZOR Variations 4.0.1](https://github.com/abyzor/abyzor-variations/releases/latest)** Â· [Product page](https://abyzor.space/variations-v4/) Â· [Tutorial](https://abyzor.space/products/variations/tutorial/)
+**[Download ABYZOR Variations 4.0.1](https://github.com/abyzor/abyzor-variations/releases/latest)** · [Product page](https://abyzor.space/variations-v4/) · [Tutorial](https://abyzor.space/products/variations/tutorial/)
 
 ---
 
