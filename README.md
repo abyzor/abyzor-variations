@@ -84,4 +84,4 @@ https://abyzor.space/support
 
 ## License
 
-Copyright Â© 2026 ABYZOR. All rights reserved.
+Copyright © 2026 ABYZOR. All rights reserved.
