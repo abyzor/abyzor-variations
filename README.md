@@ -8,7 +8,20 @@
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
 </p>
 
-**[Download ABYZOR Variations 4.0.1](https://github.com/abyzor/abyzor-variations/releases/latest)** · [Product page](https://abyzor.space/variations-v4/) · [Tutorial](https://abyzor.space/products/variations/tutorial/)
+**[Download ABYZOR Variations 4.1.0](https://github.com/abyzor/abyzor-variations/releases/latest)** · [Product page](https://abyzor.space/variations-v4/) · [Tutorial](https://abyzor.space/products/variations/tutorial/)
+
+---
+
+## What's new in 4.1
+
+- **Chord progression** per bar in the **Output** column when your arrangement includes Chords.
+- **Legato** and **On the beat** on each **chords** item (not a single global switch).
+- **IZZY Synth** built in — **LIB / WAV / VST / IZZY**; genre-matched defaults until you edit a part.
+- **Song mixer** — volume and sound per part; stems use the Song mix.
+- **Density you can hear**, **real swing**, and **nine genres** with their own identity.
+- Stability fixes for **Logic Pro**, **REAPER**, **Bitwig**, and **FL Studio**.
+
+Full notes: [v4.1.0 release](https://github.com/abyzor/abyzor-variations/releases/tag/v4.1.0).
 
 ---
 
@@ -24,13 +37,13 @@ Generate and develop MIDI in the **Ideas** workspace:
 
 **Mood** colours the genre: Happy, Sad, Euphoric, Dark, Dreamy, Chill, Tense, Epic, Nostalgic, Aggressive.
 
-**41 genres** : house, techno, trance, drum & bass, hip hop, lo-fi, latin, cinematic, classical and more.
+**42 genres** : house, techno, trance, drum & bass, hip hop, lo-fi, latin, cinematic, classical and more.
 
 Labelled MIDI exports (key and chords in the filename). **Undo**, **Redo** and **Clear** in the header.
 
 ---
 
-## Song Builder *(new in 4.0)*
+## Song Builder
 
 Switch to **Song** to build a full track from your ideas:
 
@@ -52,9 +65,9 @@ Install the [ABYZOR AI Module 1.1.0](https://github.com/abyzor/abyzor-ai-module/
 | Platform | Formats |
 |----------|---------|
 | **Windows** 10+ (64-bit) | VST3, Standalone (WebView2 Runtime) |
-| **macOS** 11+ universal | VST3, AU |
+| **macOS** 11+ (Big Sur) universal (Intel + Apple Silicon) | VST3, AU |
 
-macOS builds are ad-hoc signed : see the [install guide](https://abyzor.space/variations/install/#macos) if Gatekeeper blocks the app.
+macOS builds are **ad hoc signed** (not notarized). On first open of the installer, use **Control-click → Open**, or on macOS 15+ **System Settings → Privacy & Security → Open Anyway**. See the [v4.1.0 release notes](https://github.com/abyzor/abyzor-variations/releases/tag/v4.1.0) and the [install guide](https://abyzor.space/variations/install/#macos).
 
 Supported hosts include Ableton Live, FL Studio, Cubase, Studio One, Bitwig, Reaper and Logic Pro (AU on macOS).
 
